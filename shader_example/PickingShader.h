@@ -1,0 +1,19 @@
+#pragma once
+
+#include <ShaderObject.h>
+
+class PickingShader: public ShaderObject
+{
+public:
+	PickingShader();
+	~PickingShader();
+
+	bool Init();
+	void SetMVMat(const glm::mat4& mat);
+	void SetPMat(const glm::mat4& mat);
+
+private:
+	GLuint mvLocation;
+	GLuint pLocation;
+};
+

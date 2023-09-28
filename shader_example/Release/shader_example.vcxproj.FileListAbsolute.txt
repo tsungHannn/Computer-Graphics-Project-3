@@ -1,0 +1,28 @@
+C:\Users\John\Desktop\投影片\CH-10\shader example for windows form\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\John\Desktop\投影片\CH-10\shader example for windows form\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\John\Desktop\投影片\CH-10\shader example for windows form\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\John\Desktop\投影片\CH-10\shader example for windows form\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Users\John\Desktop\a\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\John\Desktop\a\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\John\Desktop\a\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\John\Desktop\a\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Users\B10832021\Downloads\新增資料夾\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\B10832021\Downloads\新增資料夾\a - 複製\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\B10832021\Downloads\新增資料夾\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\B10832021\Downloads\新增資料夾\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Users\John\Desktop\b\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\John\Desktop\b\a - 複製\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\John\Desktop\b\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\John\Desktop\b\a - 複製\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Users\John\Desktop\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Users\John\Desktop\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Users\John\Desktop\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Users\John\Desktop\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete
+C:\Data\1102(大二下)\電腦圖學Quiz\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.AssemblyReference.cache
+C:\Data\1102(大二下)\電腦圖學Quiz\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.MyForm.resources
+C:\Data\1102(大二下)\電腦圖學Quiz\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.GenerateResource.cache
+C:\Data\1102(大二下)\電腦圖學Quiz\Project3_B10832021_B10932024_ver1\shader_example\shader_example\Release\shader_example.vcxproj.CopyComplete

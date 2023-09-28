@@ -1,0 +1,30 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2203,5): warning MSB3270: 所建置之專案的處理器架構 "AMD64" 與參考 "HKOGLPanel" 的處理器架構 "x86" 不相符。這可能會導致執行階段失敗。請考慮透過組態管理員變更專案的目標處理器架構，使專案與參考之間的處理器架構相對應，或者使用符合專案目標處理器架構之處理器架構的參考相依性。
+  Common.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\Include\Common.cpp(169,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ResourcePath.cpp
+  ShaderObject.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\Include\ShaderObject.h(4,10): fatal error C1083: 無法開啟包含檔案: 'GL/glew.h': No such file or directory
+  tiny_obj_loader.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\Include\tiny_obj_loader.cpp(951,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\John\Desktop\a - 複製\shader_example\Include\tiny_obj_loader.cpp(975,6): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ViewManager.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\Include\ViewManager.h(8,10): fatal error C1083: 無法開啟包含檔案: 'GL/glew.h': No such file or directory
+  DotNetUitilities.cpp
+  DrawModelShader.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\DrawModelShader.h(3,10): fatal error C1083: 無法開啟包含檔案: 'ShaderObject.h': No such file or directory
+  DrawPickingFaceShader.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\DrawPickingFaceShader.h(2,10): fatal error C1083: 無法開啟包含檔案: 'ShaderObject.h': No such file or directory
+  LoadShaders.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\LoadShaders.h(2,10): fatal error C1083: 無法開啟包含檔案: 'GL/glew.h': No such file or directory
+  MeshObject.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\MeshObject.h(4,10): fatal error C1083: 無法開啟包含檔案: 'OpenMesh/Core/IO/MeshIO.hh': No such file or directory
+  MyForm.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\MeshObject.h(4,10): fatal error C1083: 無法開啟包含檔案: 'OpenMesh/Core/IO/MeshIO.hh': No such file or directory
+  object.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\object.h(5,10): fatal error C1083: 無法開啟包含檔案: 'GL/glew.h': No such file or directory
+  PickingShader.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\PickingShader.h(3,10): fatal error C1083: 無法開啟包含檔案: 'ShaderObject.h': No such file or directory
+  PickingTexture.cpp
+C:\Users\John\Desktop\a - 複製\shader_example\shader_example\PickingTexture.h(5,10): fatal error C1083: 無法開啟包含檔案: 'GL/glew.h': No such file or directory
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  正在產生程式碼...

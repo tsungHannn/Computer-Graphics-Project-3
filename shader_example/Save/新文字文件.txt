@@ -1,0 +1,17 @@
+zebra
+turtle
+eye
+alligator
+giraffe
+tiger
+leopard
+fur
+skin
+dinosaur
+nose
+brick
+stone
+leaf
+shell
+				
+				
